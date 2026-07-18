@@ -5312,6 +5312,7 @@ markers:
   - {type: line-break, offset: 20767, content: '', id: KR4e0081_WYG_002-65a06}
   - {type: substitution, offset: 20769, original: 税, replacement: 稅, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20802}}
   - {type: punctuation, offset: 20771, content: (, id: KR4e0081_krp_002-bkkpn1}
+  - {type: voice, offset: 20771, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 20772, content: /, id: KR4e0081_krp_002-bkkpn2}
   - {type: punctuation, offset: 20772, content: ), id: KR4e0081_krp_002-bkkpn3}
   - {type: substitution, offset: 20783, original: 㣲, replacement: 微, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19843}}
@@ -8827,4 +8828,4 @@ markers:
 
       ', id: KR4e0081_krp_002-bkkkrnewl1925}
   back: []
-hash: sha256:ed885b4a98ee3414cdbf5a769c2bf8e6bb395d98a4ec77e660239031350a0f02
+hash: sha256:736abb8d7bc069c202a531053cefe52a69cf3f5be6fa834aadb7f204b109ddc7
